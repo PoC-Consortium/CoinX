@@ -6,6 +6,11 @@ the PoC Consortium has been working on since January 2019.
 This repository is to provide some minimum public information, and
 manage interaction/feedback with interested parties.
 
+Discussion forum: https://discord.gg/Mvqaa5k
+
+Feedback and discussion is presented in a distilled form under
+the [public input project](https://github.com/PoC-Consortium/CoinX/projects/1).
+
 
 ## Mini FAQ
 
