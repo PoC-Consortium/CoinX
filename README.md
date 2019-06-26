@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# PoCC CoinX project
 
-You can use the [editor on GitHub](https://github.com/PoC-Consortium/CoinX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+CoinX is the project name of a Proof-of-Capacity based cryptocurrency
+the PoC Consortium has been working on since January 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository is to provide some minimum public information, and
+manage interaction/feedback with interested parties.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Mini FAQ
 
-```markdown
-Syntax highlighted code block
+* Why are you doing this?
 
-# Header 1
-## Header 2
-### Header 3
+We want to achieve great things and we would like to put our
+competence to good use where it is appreciated.
 
-- Bulleted
-- List
+* What are the features of CoinX?
 
-1. Numbered
-2. List
+We can't go into detail at this point. You can assume PoC (Proof of
+Capacity) is somehow involved. The code base is new/from
+scratch. There are several unique features planned. Equally important
+as the technicals is the CoinX community, which will also be
+architected "from scratch".
 
-**Bold** and _Italic_ and `Code` text
+* When will CoinX be available?
 
-[Link](url) and ![Image](src)
-```
+No ETA whatsoever.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Will there be a white paper?
 
-### Jekyll Themes
+White paper and code will be published at the same time. There may be
+preliminary publications of partial features or aspects of the coin
+before that.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PoC-Consortium/CoinX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Can't you really share more information?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This repository will - probably over time - give more and more hints
+of what is likely and what is unlikely to have in CoinX.
