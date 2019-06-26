@@ -1,0 +1,2 @@
+# CoinX
+PoCC CoinX project
