@@ -41,3 +41,32 @@ before that.
 
 This repository will - probably over time - give more and more hints
 of what is likely and what is unlikely to have in CoinX.
+
+
+----
+
+Nevertheless - by public discourse - possible features, although not
+guaranteed and subject to change:
+
+Mortgage
+
+Probably yes, although dynamic depending on (a fraction of) mined supply.
+Mortgage decides in a binary yes/no if someone can forge a block - no
+percentage block reward, no marketing account as default beneficiary.
+
+Proof of Capacity
+
+Yes, Probably multiple PoC types supported. PoC2 (as such Helix too),
+but ZPoC (an even more efficient form of mining Helix plots - without
+GPU), PoC3 is desired by the core dev team. There are more PoC4
+concepts discussed.
+
+Total Supply
+
+Probably something that is in relation to "the number of people on
+this planet".
+
+ICO/premine
+
+Def. no ICO. The pros and cons of a small instamine to exclusively pay
+for bounties (translations etc.) are being discussed.
