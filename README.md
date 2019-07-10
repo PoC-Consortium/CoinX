@@ -48,11 +48,12 @@ of what is likely and what is unlikely to have in CoinX.
 Nevertheless - by public discourse - possible features, although not
 guaranteed and subject to change:
 
-Mortgage
+Forge Deposit (a.k.a FD, formerly known as "Mortgage")
 
-Probably yes, although dynamic depending on (a fraction of) mined supply.
-Mortgage decides in a binary yes/no if someone can forge a block - no
-percentage block reward, no marketing account as default beneficiary.
+Most probably yes, although dynamic depending on (a fraction of) mined
+supply.  FD decides in a binary yes/no fashion if someone can forge a
+block - no percentage block reward, no marketing account as default
+beneficiary.
 
 Proof of Capacity
 
@@ -68,5 +69,6 @@ this planet".
 
 ICO/premine
 
-Def. no ICO. The pros and cons of a small instamine to exclusively pay
-for bounties (translations etc.) are being discussed.
+Definitely no ICO. The pros and cons of a very small (< 1% of the
+supply) instamine to exclusively pay for bounties (translations etc.)
+are being discussed.
