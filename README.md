@@ -1,16 +1,25 @@
-# PoCC CoinX project
 
-CoinX is the project name of a Proof-of-Capacity based cryptocurrency
-the PoC Consortium has been working on since January 2019.
+# PoCC Zenyt
 
-This repository is to provide some minimum public information, and
-manage interaction/feedback with interested parties.
+Zenyt has been released, see [GitHub repo](https://github.com/PoC-Consortium/Zenyt)
 
-Discussion forum: https://discord.gg/Mvqaa5k
+Discussion forum: https://discord.gg/Mvqaa5k channel
+[#zenyt](https://discord.com/channels/339689795427106817/590462784697794568)
 
 Feedback and discussion is presented in a distilled form under
 the [public input project](https://github.com/PoC-Consortium/CoinX/projects/1).
 
+## CoinX (Former project name)
+
+CoinX was the project name of a Proof-of-Capacity based cryptocurrency
+the PoC Consortium has been working on since January 2019. This
+writeup is left here for historic purposes. For all current info,
+please see the official Zenyt channels.
+
+----
+
+This repository is to provide some minimum public information, and
+manage interaction/feedback with interested parties.
 
 ## Mini FAQ
 
